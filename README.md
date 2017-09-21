@@ -1,6 +1,6 @@
-## Tiny Http Server for Android
+## Tiny Httpd Server for Android
 
-## Why TinyHttp?
+## Why TinyHttpd?
 TinyHttpd是一个运行于Android上轻量且高效的Http服务器组件，可用于代理服务器等使用场景（如音视频边下边播的代理服务器）。
 
 ## 特性
